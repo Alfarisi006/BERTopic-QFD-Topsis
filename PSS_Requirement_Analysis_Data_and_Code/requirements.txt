@@ -1,0 +1,44 @@
+# Python: 3.10.18
+
+# Core notebook/runtime packages
+jupyter==1.1.1
+ipykernel==6.29.5
+notebook==7.3.2
+nbformat==5.10.4
+
+# Topic modeling and clustering
+bertopic==0.15.0
+hdbscan==0.8.39
+umap-learn==0.5.9.post2
+scikit-learn==1.7.1
+
+# BERT and embeddings
+torch==2.0.1
+transformers==4.29.1
+sentence-transformers==2.2.2
+
+# Data and numerical stack
+numpy==1.26.4
+pandas
+scipy
+joblib
+threadpoolctl
+numba
+llvmlite
+pynndescent
+
+# Visualization and export
+plotly==6.2.0
+kaleido==0.2.1
+
+# Supporting packages
+tqdm
+Pillow
+filelock
+fsspec
+packaging
+PyYAML
+regex
+requests
+tenacity
+typing_extensions
